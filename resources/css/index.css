@@ -32,10 +32,17 @@ input[type="submit"]{
 }
 
 #search{
-    height: 40px;
-    width: 500px;
-    margin: 20px auto;
-    border-radius: 22px;
+    width: 582px;
     border-width: thin;
     padding-left: 20px;
+
+    background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+
 }
+
