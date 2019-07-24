@@ -6,6 +6,11 @@
     display: inline-block;
 }
 
+#searchform{
+    position: absolute;
+    top: 311px;
+}
+
 input[type="submit"]{
     height: 36px;
     line-height: 27px;
