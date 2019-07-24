@@ -3,9 +3,11 @@
 }
 #lg {
     display: inline-block;
+    height:233px;
+    margin-top:89px;
 }
 
-#searchform{
+#wrapper2{
     text-align: center;
 }
 
