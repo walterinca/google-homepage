@@ -3,8 +3,8 @@
 }
 #lg {
     display: block;
-    padding-top: 200px;
-    margin-top:auto;
+    height:233px;
+    margin-top:89px;
 }
 
 #wrapper2{
@@ -43,5 +43,5 @@ input[type="submit"]{
     margin: 20px auto;
     border-radius: 22px;
     border-width: thin;
-    
+    padding-left: 20px;
 }
