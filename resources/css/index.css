@@ -20,5 +20,12 @@ input[type="submit"]{
     min-width: 54px;
     padding: 0 16px;
     text-align: center;
-    
+
+}
+
+.inpt{
+    padding-top: 18px;
+    position: absolute;
+    top:53px;
+
 }
