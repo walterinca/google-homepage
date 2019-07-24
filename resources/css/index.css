@@ -32,7 +32,7 @@ input[type="submit"]{
     padding-top: 18px;
     top:53px;
     display: inline-block;
-    position: absolute;
+    /* position: absolute; */
     top: 311px;
 
 }
