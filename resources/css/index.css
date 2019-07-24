@@ -6,8 +6,7 @@
 }
 
 #searchform{
-    position: absolute;
-    top: 311px;
+    text-align: center;
 }
 
 input[type="submit"]{
@@ -27,14 +26,11 @@ input[type="submit"]{
 
 }
 
-#searchform{
-    text-align: center;
-}
-
 #inpt{
     padding-top: 18px;
-    position: absolute;
     top:53px;
     display: inline-block;
+    position: absolute;
+    top: 311px;
 
 }
