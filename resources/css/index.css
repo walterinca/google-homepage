@@ -30,7 +30,7 @@ input[type="submit"]:hover{
 
 }
 
-input[type="input"]:focus{
+input[type="submit"]:focus{
     border:1px solid #4d90fe;
     outline: none;
 }
