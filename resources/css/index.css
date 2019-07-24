@@ -23,7 +23,7 @@ input[type="submit"]{
 }
 
 #inpt{
-    padding-top: 18px;
+    /* padding-top: 18px; */
     top:53px;
     display: inline-block;
     /* position: absolute; */
