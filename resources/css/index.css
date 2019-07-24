@@ -2,9 +2,9 @@
     text-align: center;
 }
 #lg {
-    display: inline-block;
-    height:233px;
-    margin-top:89px;
+    display: block;
+    padding-top: 200px;
+    margin-top:auto;
 }
 
 #wrapper2{
@@ -35,4 +35,13 @@ input[type="submit"]{
     /* position: absolute; */
     top: 311px;
 
+}
+
+#search{
+    height: 40px;
+    width: 500px;
+    margin: 20px auto;
+    border-radius: 22px;
+    border-width: thin;
+    
 }
