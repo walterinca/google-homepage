@@ -1,7 +1,6 @@
 #wrapper{
     text-align: center;
 }
-
 #lg {
     display: inline-block;
 }
@@ -28,9 +27,14 @@ input[type="submit"]{
 
 }
 
-.inpt{
+#wrapper2{
+    text-align: center;
+}
+
+#inpt{
     padding-top: 18px;
     position: absolute;
     top:53px;
+    display: inline-block;
 
 }
