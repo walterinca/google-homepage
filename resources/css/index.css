@@ -44,6 +44,8 @@ input[type="submit"]{
     height: 44px;
     margin: 0 auto;
 
+    outline: none;
+
 }
 
 #search:hover{
