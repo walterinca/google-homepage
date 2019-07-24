@@ -1,14 +1,10 @@
-#wrapper{
+.main{
     text-align: center;
 }
 #lg {
     display: block;
     height:233px;
     margin-top:89px;
-}
-
-#wrapper2{
-    text-align: center;
 }
 
 input[type="submit"]{
@@ -24,8 +20,6 @@ input[type="submit"]{
     margin: 11px 4px;
     min-width: 54px;
     padding: 0 16px;
-    text-align: center;
-
 }
 
 #inpt{
