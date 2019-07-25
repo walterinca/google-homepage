@@ -2,10 +2,15 @@ html, body {
     margin: 0;
     height: 100%;
     overflow: auto;
+    font-family: arial, sans-serif;
 }
 
 .nav{
     top: 16px;
+    position: fixed;
+    width: 100%;
+    min-width: 980px;
+
 }
 
 #lnks{
