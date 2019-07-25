@@ -1,4 +1,4 @@
-html, body {
+body {
     margin: 0;
     height: 100%;
     overflow: auto;
@@ -13,10 +13,12 @@ html, body {
     width: 100%;
     min-width: 980px;
 
+    display: flex;
     float: right;
     padding-left: 30px;
     padding-right: 30px;
     align-items: center;
+
 
 }
 
