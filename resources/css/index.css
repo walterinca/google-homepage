@@ -9,16 +9,19 @@ html,body {
 }
 /*top nav bar*/
 
+.top{
+    top: 16px;
+    position: fixed;
+    width: 100%;
+    min-width: 980px;
+}
+
 .line{
     display: inline-block;
 }
 
 .nav{
-    top: 16px;
-    position: fixed;
-    width: 100%;
-    min-width: 980px;
-
+    
     display: flex;
     float: right;
     padding-left: 30px;
