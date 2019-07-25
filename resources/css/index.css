@@ -4,16 +4,20 @@ html, body {
     overflow: auto;
 }
 
+.nav{
+    top: 16px;
+}
+
 #lnks{
     width: 100%;
-    float: left;
+    float: right;
     margin: 0 0 3em 0;
     padding: 0;
     list-style: none;
 }
 
 #lnks li{
-    float: left;
+    float: right;
 }
 
 .main{
