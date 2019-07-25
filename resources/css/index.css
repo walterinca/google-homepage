@@ -21,16 +21,21 @@ html, body {
     /* padding: 0; */
     /* list-style: none; */
 
-    min-width: 195px;
-    float: right;
-    padding-left: 30px;
-    padding-right: 30px;
-    text-align: right;
-    align-items: center;
+    /* min-width: 195px; */
+    /* float: right; */
+    /* padding-left: 30px; */
+    /* padding-right: 30px; */
+    /* text-align: right; */
+    /* align-items: center; */
+
+    margin: 0;
+    padding: 0;
+
 }
 
 #lnks li{
-    float: right;
+    /* float: right; */
+    display: inline;
 }
 
 .main{
