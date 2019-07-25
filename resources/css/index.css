@@ -6,15 +6,21 @@ html, body {
     font-size: 13px;
 
 }
-
+/*top nav bar*/
 .nav{
     top: 16px;
     position: fixed;
     width: 100%;
     min-width: 980px;
+
+    float: right;
+    padding-left: 30px;
+    padding-right: 30px;
+    align-items: center;
+
 }
 
-#lnks{
+.lnks, .Otr{
     /* width: 100%; */
     /* float: right; */
     /* margin: 0 0 3em 0; */
@@ -28,16 +34,14 @@ html, body {
     /* text-align: right; */
     /* align-items: center; */
 
-    margin: 0;
-    padding: 0;
+    /* margin: 0; */
+    /* padding: 0; */
+
+    padding-right: 15px;
+
 
 }
-
-#lnks li{
-    /* float: right; */
-    display: inline;
-}
-
+/*logo & search*/
 .main{
     text-align: center;
 }
